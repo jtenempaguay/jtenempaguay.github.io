@@ -8,16 +8,14 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .st-auto{max-width:1140px}
 .st-container,.st-panel{padding:0.01em 16px}.st-panel{margin-top:16px;margin-bottom:16px}
 
-.bg-color{color:#000000;background-color:#085078}
+.bg-color{color:#ffffff;background-color:#085078}
 .warning-amber{color:#000;background-color:#ffc107}
 .status-online{color:#fff;background-color:#4CAF50}
 .status-offline{color:#fff;background-color:#f44336}
 .warning-yellow{color:#000;background-color:#ffeb3b}
-.status-text-amber{color:#ffc107}
-.status-text-green{color:#4CAF50}
-.status-text-red{color:#f44336}
-.status-text-yellow{color:#d2be0e}
+.text-white{color:#ffffff}
+.text-amber{color:#ffc107}
+.text-green{color:#4CAF50}
+.text-red{color:#f44336}
+.text-yellow{color:#d2be0e}
 
-.img-size {
-  width: 100%;
-}
