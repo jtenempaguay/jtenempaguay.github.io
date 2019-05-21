@@ -1,4 +1,4 @@
-body{background-color:#000000;font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}
+body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}
 html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
@@ -8,6 +8,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .st-auto{max-width:1140px}
 .st-container,.st-panel{padding:0.01em 16px}.st-panel{margin-top:16px;margin-bottom:16px}
 
+.bg-color{color:#000;background-color:#ffc107}
 .warning-amber{color:#000;background-color:#ffc107}
 .status-online{color:#fff;background-color:#4CAF50}
 .status-offline{color:#fff;background-color:#f44336}
