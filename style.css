@@ -8,6 +8,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .st-auto{max-width:1140px}
 .st-container,.st-panel{padding:0.01em 16px}.st-panel{margin-top:16px;margin-bottom:16px}
 .st-round{border-radius:8px}
+.st-width {width:33.33333%}
 
 .bg-color{color:#ffffff;background-color:#085078}
 .warning-amber{color:#000;background-color:#ffc107}
