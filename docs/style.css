@@ -2,9 +2,11 @@
     position: top-center;
     border-radius: 8px;
     text-align: center;
-    width:65%;
+    width:100%;
     color:#fff;
-    background:#323947;
+    background-image: url ("http://www.citytech.cuny.edu/images/logos/citytech_logo.png");
+    background-repeat: no-repeat;
+    background-size: 239px 69px;
 }
 
 .main{
