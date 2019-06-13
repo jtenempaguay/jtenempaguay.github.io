@@ -70,6 +70,6 @@ a.links:link {
   text-decoration: underline;
 }
 
-textHover:hover {
+a.hover:hover {
    color: #fff;
 }
