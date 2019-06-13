@@ -15,6 +15,19 @@
     background:#000;
 }
 
+.grid{
+    display:grid;
+    grid-template-columns: 50%;
+    grid-gap:1em;
+    grid-auto-rows: minmax (100px, auto);
+}
+.grid > div{
+    color:#f3f3f3;
+    background:#E74C3C;
+    padding:1em;
+    border-radius: 8px;
+}
+
 .button{
   background-color: #eee;
   color: white;
