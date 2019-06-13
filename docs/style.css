@@ -1,3 +1,10 @@
+.main{
+    position: top;
+    border-radius: 8px;
+    text-align: center;
+    color:#fff;
+    background:#323947;
+}
 .bgcolor{
     text-align: center;
     color:#fff;
