@@ -64,7 +64,7 @@ html{
     padding: 5px;
 }
 
-footerText:hover{
+footerText:hover:after{
     color:#fff;
 }
 
