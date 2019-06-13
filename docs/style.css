@@ -1,3 +1,9 @@
+.body, .html{
+    text-align: center;
+    color:#fff;
+    background:#000;
+}
+
 .header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/jtenempaguay/jtenempaguay.github.io/blob/master/docs/architecture-1857175_960_720.jpg?raw=true");
   height: 20%;
@@ -16,12 +22,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: #eee;
-}
-
-.body{
-    text-align: center;
-    color:#fff;
-    background:#000;
 }
 
 .grid{
