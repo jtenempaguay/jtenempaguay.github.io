@@ -64,7 +64,7 @@ html{
     padding: 5px;
 }
 
-a:link {
+a.links:link {
   color: #eee;
   background-color: transparent;
   text-decoration: underline;
