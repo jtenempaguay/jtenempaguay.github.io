@@ -64,7 +64,9 @@ html{
     padding: 5px;
 }
 
-footerText:hover a{
-    color:#fff;
+a:link {
+  color: #eee;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
