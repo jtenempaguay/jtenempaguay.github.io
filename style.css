@@ -15,9 +15,11 @@
     background:#3f485a;
     padding:1em;
     border-radius: 8px;
+    font-size: 14px;
 }
 
 .grid > div:nth-child(odd){
     color:#000;
     background:#3f485a;
+    font-size: 14px;
 }
