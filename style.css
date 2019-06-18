@@ -12,12 +12,12 @@
 }
 .grid > div{
     color:#f3f3f3;
-    background:#E74C3C;
+    background:#3f485a;
     padding:1em;
     border-radius: 8px;
 }
 
 .grid > div:nth-child(odd){
     color:#000;
-    background:#f3f3f3;
+    background:#3f485a;
 }
